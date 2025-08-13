@@ -1,1 +1,1 @@
-# extraindo-palavras-chave-de-um-texto
+# extrator-de-palavras-chave
